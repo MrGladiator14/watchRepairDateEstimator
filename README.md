@@ -2,7 +2,7 @@
 ### *Estimation of Wrist Watch repair delivery date*
 ## **Description:**  
 ### This program calculates the pickup date for customers of a branded watch repair shop based on 
-* vailability of parts for a particular model
+* availability of parts for a particular model
 * considering the workload, working hours,
 * time required to repair each component of a particular model
 * holidays/leaves taken by the mechanic
